@@ -7,6 +7,7 @@ hosts_path = r"C:\Windows\System32\drivers\etc\hosts"
 hosts_temp = "hosts"
 redirect = "0.0.0.0"
 website_list = ["facebook.com", "www.facebook.com", "instagram.com", "www.instagram.com"]
+# Add/remove the websites to be blocked following this format, URL within quotes, separated by commas
 
 while True:
     # Using the date time method, checks whether current time is between 8am and 4pm
