@@ -41,3 +41,4 @@ while True:
 
         print("Leisure hours")
     time.sleep(5)
+# Update the time.sleep(x) where x is the number of second(s) intervals that the script will run in the background
